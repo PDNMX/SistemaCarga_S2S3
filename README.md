@@ -1,7 +1,7 @@
-# Sistema de Carga de Información del S2 y S3
+# Sistema de Carga de Datos del S2 y S3
 Con este sistema esta diseñado para la carga y administración de datos del Sistema de Servidores Públicos que Intervienen en Procedimientos de Contratación (S2) y el Sistema de los Servidores Públicos y Particulares Sancionados (S3)
 
-El sistema de carga de información  permite a los generadores de datos transferir a las Secretarías Ejecutivas Anticorrupción Estatales los datos de los sistemas 2 y 3, que serán consultados desde la PDN a través de los mecanismos de comunicación desarrollados.
+El sistema de carga de datos  permite a los generadores de datos transferir a las Secretarías Ejecutivas Anticorrupción Estatales los datos de los sistemas 2 y 3, que serán consultados desde la PDN a través de los mecanismos de comunicación desarrollados.
 
 Por su parte, las Secretarías Ejecutivas Anticorrupción Estatales fungirán dentro del sistema como entidades concentradoras de los datos, sin embargo, el control y administración de los mismos será responsabilidad de los generadores/proveedores de datos.
 
@@ -18,9 +18,9 @@ encuentran en los siguientes repositorios:
 ## 🗃️ Manuales del Sistema 
 | Manual            | Descripción | Recurso |
 | ----------------- | ----------- | --------|
-| Manual de usuario | Manual para usuarios del Sistema de Carga de Información (encargados dentro de las entidades proveedoras de información). | [Manual](manuales/manual_usuario.pdf)|
-| Manual de administrador | Manual orientado para el administrador del Sistema de Carga de Información. | [Manual](manuales/manual_administrador.pdf)|
-| Guía de instalación | Guía para el despliegue y puesta en producción del Sistema de Carga de Información (dirigido a las entidades concentradoras). | [Manual](manuales/guía_instalacion.pdf)|
+| Manual de usuario | Manual para usuarios del Sistema de Carga de Datos (encargados dentro de las entidades proveedoras de información). | [Manual](manuales/manual_usuario.pdf)|
+| Manual de administrador | Manual orientado para el administrador del Sistema de Carga de Datos. | [Manual](manuales/manual_administrador.pdf)|
+| Guía de instalación | Guía para el despliegue y puesta en producción del Sistema de Carga de Datos (dirigido a las entidades concentradoras). | [Manual](manuales/guía_instalacion.pdf)|
 
 
 ## 	💡️ Dudas y comentarios 
