@@ -20,7 +20,7 @@ encuentran en los siguientes repositorios:
 | ----------------- | ----------- | --------|
 | Manual de usuario | Manual para usuarios del Sistema de Carga de Datos (encargados dentro de las entidades proveedoras de información). | [Manual](manuales/manual_usuario.pdf)|
 | Manual de administrador | Manual orientado para el administrador del Sistema de Carga de Datos. | [Manual](manuales/manual_administrador.pdf)|
-| Guía de instalación | Guía para el despliegue y puesta en producción del Sistema de Carga de Datos (dirigido a las entidades concentradoras). | [Manual](manuales/guía_instalacion.pdf)|
+| Guía de instalación | Guía para el despliegue y puesta en producción del Sistema de Carga de Datos (dirigido a las entidades concentradoras). | [Manual](manuales/guía_instalación.pdf)|
 
 
 ## 	💡️ Dudas y comentarios 
