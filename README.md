@@ -13,6 +13,7 @@ encuentran en los siguientes repositorios:
 | -------- | ----------- | -------- |
 | Frontend | Interfaz Web. | [Repositorio](https://github.com/PDNMX/piloto_sistema_frontend.git)|
 | Backend  | Lógica de negocio y conexión con bases de datos. | [Repositorio](https://github.com/PDNMX/piloto_sistema_backend.git)|
+| OAuth 2.0 | Servidor de autorizaciones para la administración de usuarios y permisos | [Repositorio](https://github.com/PDNMX/piloto_sistema_oauth20.git)|
 
 
 ## 🗃️ Manuales del Sistema 
