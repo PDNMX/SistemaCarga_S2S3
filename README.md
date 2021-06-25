@@ -5,7 +5,7 @@ El sistema de carga de datos  permite a los generadores de datos transferir a la
 
 Por su parte, las Secretarías Ejecutivas Anticorrupción Estatales fungirán dentro del sistema como entidades concentradoras de los datos, sin embargo, el control y administración de los mismos será responsabilidad de los generadores/proveedores de datos.
 
-[![img](https://github.com/PDNMX/SistemaCarga_S2S3/raw/cc3042af3440100260a0876471de908e305f41e2/assets/cover.png)](https://youtu.be/0XhjQQYKWDY)
+[![img](https://github.com/PDNMX/SistemaCarga_S2S3/raw/d7f60cd4aeee57b86da1eb895a421cd8ffcf627e/assets/mda_sistema-Datos_s2-s3-play2.png)](https://youtu.be/0XhjQQYKWDY)
 
 
 ## ⬇️ Descarga
