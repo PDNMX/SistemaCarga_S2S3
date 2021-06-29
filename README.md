@@ -23,9 +23,9 @@ encuentran en los siguientes repositorios:
 ## 🗃️ Manuales del Sistema 
 | Manual            | Descripción | Recurso |
 | ----------------- | ----------- | --------|
-| Manual de usuario | Manual para usuarios del Sistema de Carga de Datos (encargados dentro de las entidades proveedoras de información). | [Manual](manuales/manual_usuario.pdf)|
-| Manual de administrador | Manual orientado para el administrador del Sistema de Carga de Datos. | [Manual](manuales/manual_administrador.pdf)|
-| Guía de instalación | Guía para el despliegue y puesta en producción del Sistema de Carga de Datos (dirigido a las entidades concentradoras). | [Manual](manuales/guía_instalación.pdf)|
+| Manual de usuario | Manual para usuarios del Sistema de Carga de Datos (encargados dentro de las entidades proveedoras de información). | [Manual](https://drive.google.com/file/d/15MFT_zr0PdRAADrrDRaawoIWnqqFA8tM/view?usp=sharing)|
+| Manual de administrador | Manual orientado para el administrador del Sistema de Carga de Datos. | [Manual](https://drive.google.com/file/d/1SfZeHhZjQY7R_Ks0vSzsDAGB4630IKaF/view?usp=sharing)|
+| Guía de instalación | Guía para el despliegue y puesta en producción del Sistema de Carga de Datos (dirigido a las entidades concentradoras). | [Manual](https://docs.google.com/document/d/1n_pV-VYLhpnXY2uP2zTt724-Zf9pNW7Jp_Js7ucIP9c/edit?usp=sharing)|
 
 
 ## 	💡️ Dudas y comentarios 
