@@ -26,7 +26,7 @@ encuentran en los siguientes repositorios:
 | Manual de usuario | Manual para usuarios del Sistema de Carga de Datos (encargados dentro de las entidades proveedoras de información). | [Manual](https://drive.google.com/file/d/15MFT_zr0PdRAADrrDRaawoIWnqqFA8tM/view?usp=sharing)|
 | Manual de administrador | Manual orientado para el administrador del Sistema de Carga de Datos. | [Manual](https://drive.google.com/file/d/1SfZeHhZjQY7R_Ks0vSzsDAGB4630IKaF/view?usp=sharing)|
 | Guía de instalación | Guía para el despliegue y puesta en producción del Sistema de Carga de Datos (dirigido a las entidades concentradoras). | [Manual](https://docs.google.com/document/d/1n_pV-VYLhpnXY2uP2zTt724-Zf9pNW7Jp_Js7ucIP9c/edit?usp=sharing)|
-| Tutorial de instalación | Video tutorial para el despliegue y puesta en producción del Sistema de Carga de Datos (dirigido a las entidades concentradoras). | [Video](https://www.youtube.com/watch?v=3ZUw_Hkx_DE&t=13s)|
+| Tutorial de instalación | Video tutorial para el despliegue y puesta en producción del Sistema de Carga de Datos (dirigido a las entidades concentradoras). | [Video](https://www.youtube.com/watch?v=nPW2fGXQXN0)|
 
 
 ## 	💡️ Dudas y comentarios 
